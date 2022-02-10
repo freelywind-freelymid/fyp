@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-02-11T00:14:37+08:00*%
+%TF.ProjectId,OpenEMG_SMD_ver2.1,4f70656e-454d-4475-9f53-4d445f766572,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-02-11 00:14:37*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,6.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H1*%
+X127000000Y-60960000D03*
+%TD*%
+%TO.C,H2*%
+X127000000Y-78740000D03*
+%TD*%
+M02*
